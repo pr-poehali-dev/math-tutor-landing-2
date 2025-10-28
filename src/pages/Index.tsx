@@ -33,7 +33,7 @@ const Index = () => {
             </div>
             <div className="flex-1">
               <img 
-                src="https://cdn.poehali.dev/projects/5a74aacd-c590-4d78-b1ce-b421dfd6a85b/files/5dc651b8-4706-4f50-882f-13d25d881562.jpg"
+                src="https://cdn.poehali.dev/files/40059724-5701-42a5-b28a-14be5c306b2f.jpg"
                 alt="Михаил - репетитор по математике"
                 className="rounded-2xl shadow-2xl w-full max-w-md mx-auto"
               />
